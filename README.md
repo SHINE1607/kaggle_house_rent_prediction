@@ -7,4 +7,5 @@
 ==> The regression techniques used are xgboost Regressor and as simple Artificial neural network conatining 2 hidden layers<br />
 ==> the predicted file is prediction.csv
 ==> code can be accessed in code.ipynb 
+==> a kaggle score of 0.14794 has been obtained
 
